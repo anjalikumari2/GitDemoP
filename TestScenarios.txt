@@ -1,0 +1,7 @@
+TestScenarios_10125.xlsx (file://S01015L/Users/winuser/Provar/
+TestScenarios_09605.xlsx (file://S01015L/Users/winuser/Provar/samba/samba/tests/DEFIS/Opportunity/UST-09605/TestScenarios_09605.xlsx)
+
+
+http://10.238.109.14/PROVAR/samba/samba/tests/DEFIS/Contact/UST-10125/TestScenarios_10125.xlsx
+
+http://10.238.109.14/PROVAR/samba/samba/tests/DEFIS/Opportunity/UST-09605/TestScenarios_09605.xlsx
